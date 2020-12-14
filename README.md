@@ -46,7 +46,7 @@
 - [기존의 데이터에 행정동, X좌표, Y좌표 칼럼을 추가하기 위해 카카오 맵 API를 이용한 코드 작성](https://github.com/nayoung5859/dataitgirls/blob/main/%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EC%B9%B4%EC%B9%B4%EC%98%A4api_%EC%B9%BC%EB%9F%BC%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.ipynb)
 
 (2). Data Preprocessing
-- [ESD방식을 통한 이상치 처리 및 log화](https://github.com/nayoung5859/dataitgirls/blob/main/%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.ipynb)
+- [ESD방식을 통한 이상치 처리](https://github.com/nayoung5859/dataitgirls/blob/main/%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.ipynb)
 - [`sklearn.preprocessing` 의 `StandardScaler` 과 `log화`를 통한 데이터 정규화/표준화](https://github.com/dataitgirls4/team_2/blob/main/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.ipynb)
 - [각 카테코리의 최소-최대 점수를 맞춰주기 위해 `sklearn.preprocessing` 의 `MinMaxScaler` 를 통한 min-max 정규화](https://github.com/nayoung5859/dataitgirls/blob/main/%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EC%A0%90%EC%88%98_minmax%EC%A0%95%EA%B7%9C%ED%99%94.ipynb)
 
