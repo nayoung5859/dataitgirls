@@ -52,7 +52,7 @@
 
 (3). Visualising
 - 시각화 툴(Tableau)를 이용하여 행정동별 데이터 시각화
-- [plotly 와 matplotlib 을 통한 레이더 차트 작성](https://github.com/dataitgirls4/team_2/blob/main/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%202.%20visualising/%EB%A0%88%EC%9D%B4%EB%8D%94%EC%B0%A8%ED%8A%B8%EC%8B%9C%EA%B0%81%ED%99%94_plotly.ipynb)
+- [plotly 와 matplotlib 을 통한 레이더 차트 작성](https://github.com/nayoung5859/dataitgirls/blob/main/%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%202.%20visualising/%EB%A0%88%EC%9D%B4%EB%8D%94%EC%B0%A8%ED%8A%B8%EC%8B%9C%EA%B0%81%ED%99%94_plotly.ipynb)
 
 (5). Review(피드백)
 - 대성걸즈의 분석을 비즈니스 가치로 연결시킬 수 있는 방법을 생각해보면 좋겠다.
